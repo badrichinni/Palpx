@@ -1,0 +1,12 @@
+.image-row {
+  margin-top: 20px;
+}
+.image-row:first-child {
+  margin-top: 80px;
+}
+.image-row img{
+  width: 100%;
+}
+.image-row .btn{
+  margin-bottom: 20px;
+}

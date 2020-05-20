@@ -1,0 +1,12 @@
+.carousel-item {
+  height: 400px;
+  background: #dcdcdc;
+}
+.slider .carousel-caption {
+  color: #000;
+  top: 50px;
+}
+.slider .carousel-caption h3 {
+  font-size: 60px;
+  margin-bottom: 40px;
+}

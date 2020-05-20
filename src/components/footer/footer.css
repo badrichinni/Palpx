@@ -1,0 +1,19 @@
+.footer{
+    border-top:1px solid #e6e2e2;
+    padding-top:10px;
+}
+.footer .company-name{
+    font-weight: bold;
+    margin-right: 10px;
+}
+.footer .footer-links li{
+    padding: 0 5px 0 5px;
+    border-right: 1px solid #999;
+    color:#000;
+    display: inline;
+}
+.footer .footer-links{
+    display: inline;
+    margin:0;
+    padding:0;
+}
